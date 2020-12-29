@@ -28,9 +28,9 @@ cal_dates: >
     {"label":"MLK Jr. Holiday", "date":"2021-01-18" },
     {"label":"President's Day Holiday", "date":"2021-02-15" },
     {"label":"W21 instruction ends", "date":"2021-03-12" },                    
-    {"label":"F20 finals start", "date":"2021-03-13" },                        
-    {"label":"F20 finals end", "date":"2021-03-19" },                          
-    {"label":"F20 qtr ends", "date":"2021-03-19" }                              
+    {"label":"W21 finals start", "date":"2021-03-13" },                        
+    {"label":"W21 finals end", "date":"2021-03-19" },                          
+    {"label":"W21 qtr ends", "date":"2021-03-19" }                              
   ]
 
 kramdown:
