@@ -3,13 +3,13 @@ layout: lab
 num: lab00
 ready: true
 desc: "Getting Started, Python Review"
-assigned: 2020-10-04 23:59:59.59-7
-due: 2020-10-11 23:59:59.59-7
+assigned: 2021-01-03 23:59:59.59-7
+due: 2021-01-10 23:59:59.59-7
 ---
 
 # Introduction
 
-Your first lab for this week is an introduction to making submissions to Gradescope's autograder, joining the ucsb-cs9-f20 github organization so you can create private repositories of your lab work throughout the quarter, and writing Python functions for review.
+Your first lab for this week is an introduction to making submissions to Gradescope's autograder, joining the ucsb-cs9-w21 github organization so you can create private repositories of your lab work throughout the quarter, and writing Python functions for review.
 
 ## Goals for this lab
 
@@ -22,7 +22,7 @@ By the time you have completed this lab, you should have:
 
 # Get setup with Github and adding yourself to our organization
 
-We will be using <https://github.com> in this course. We have created an organization called ucsb-cs9-f20 on github.com where you can create repositories (repos) for your assignments in this course. The advantage of creating private repos under this organization is that the course staff (your instructor, TAs, and Learning Assistants) will be able to see your code and provide you with help.
+We will be using <https://github.com> in this course. We have created an organization called ucsb-cs9-w21 on github.com where you can create repositories (repos) for your assignments in this course. The advantage of creating private repos under this organization is that the course staff (your instructor, TAs, and Learning Assistants) will be able to see your code and provide you with help.
 
 To join this organization, you need to do three things.
 
@@ -30,13 +30,13 @@ To join this organization, you need to do three things.
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
-3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS 9 F20), and click the "join course button". That will automatically send you an invitation to join the course organization on github.
+3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS 9 W21), and click the "join course button". That will automatically send you an invitation to join the course organization on github.
 
-4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs9-f20>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs9-f20> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
+4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs9-w21>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs9-w21> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
 # Get setup with Gradescope
 
-We will use Gradescope to grade all your homeworks, quizzes / exams, and lab assignments. I have manually added everyone (using your @umail.ucsb.edu accounts) currently enrolled in the course to the Gradescope system. You should have received an email notification with instructions about logging into Gradescope. Once you follow the instructions to set your password, you should have access to our course on Gradescope. You should see "CMPSC 9" in your Fall 2020 courses.
+We will use Gradescope to grade all your homeworks, quizzes / exams, and lab assignments. I have manually added everyone (using your @umail.ucsb.edu accounts) currently enrolled in the course to the Gradescope system. You should have received an email notification with instructions about logging into Gradescope. Once you follow the instructions to set your password, you should have access to our course on Gradescope. You should see "CMPSC 9" in your Winter 2021 courses.
 
 The lab assignment "Lab00" should appear in your Gradescope dashboard in CMPSC 9. You will need to submit your code for Lab00 using this page.
 
@@ -147,7 +147,7 @@ It's a good idea to periodically save your work on Github since:
 * It's useful to familiarize yourself with Github's interface - Github is a commonly used and powerful tool!
 
 In order to create a directory in the Github organization:
-* Navigate to <https://github.com/ucsb-cs9-f20>
+* Navigate to <https://github.com/ucsb-cs9-w21>
 * Click on the "New" Green Button to create a new "repository" (note: you should have a separate repository for each lab assignment).
 
 ![newButton](newButton.png)
