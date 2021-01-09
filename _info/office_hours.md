@@ -17,12 +17,17 @@ Richert Wang
 
 Alon Albalak
 
-* TBD
+* Wednesday 1pm - 3pm
+* https://ucsb.zoom.us/j/89358685000
+
+Nikita Buzov
+
+* Tuesday 10am - 11am, Thursday 10am - 11am
 * https://ucsb.zoom.us/j/89358685000
 
 Andrew Zhang
 
-* TBD
+* Friday 11am - 1pm
 * https://ucsb.zoom.us/j/89358685000
 
 # Learning Assistants
@@ -34,15 +39,15 @@ Jared Flores
 
 Gautam Mundewadi
 
-* TBD
+* Tuesday 11am - 1pm
 * https://ucsb.zoom.us/j/89358685000
 
 Ari Polakof
 
-* TBD
+* Friday 3pm - 5pm
 * https://ucsb.zoom.us/j/89358685000
 
 Kevin Villanueva
 
-* TBD
+* Tuesday 1pm - 2pm, Thursday 12pm - 1pm
 * https://ucsb.zoom.us/j/89358685000
