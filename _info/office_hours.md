@@ -34,7 +34,7 @@ Andrew Zhang
 
 Jared Flores
 
-* TBD
+* Tuesday 4:30pm - 5:30pm, Thursday 4:30pm - 5:30pm
 * https://ucsb.zoom.us/j/89358685000
 
 Gautam Mundewadi
