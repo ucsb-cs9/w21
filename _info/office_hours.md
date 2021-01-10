@@ -17,7 +17,7 @@ Richert Wang
 
 Alon Albalak
 
-* Wednesday 1pm - 3pm
+* Wednesday 2pm - 4pm
 * https://ucsb.zoom.us/j/89358685000
 
 Nikita Buzov
