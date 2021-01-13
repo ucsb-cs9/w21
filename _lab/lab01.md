@@ -20,7 +20,7 @@ The main idea for this lab is to write a program that will organize Animals into
 
 # Instructions
 
-You will need to create three files:
+You will need to create two files:
 * `Animal.py` - file containing a class definition for an Animal object.
 * `AnimalShelter.py` - file containing a class definition for an AnimalShelter object.
 
