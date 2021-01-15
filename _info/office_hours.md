@@ -49,5 +49,5 @@ Ari Polakof
 
 Kevin Villanueva
 
-* Tuesday 1pm - 2pm, Thursday 12pm - 1pm
+* Monday 2 - 3pm, Tuesday 1pm - 2pm
 * https://ucsb.zoom.us/j/89358685000
