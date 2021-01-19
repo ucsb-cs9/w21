@@ -55,7 +55,7 @@ Each 2D Shape object should be able to call a method `getShapeProperties(self)` 
 
 ```python
 s1 = Shape2D("blue")
-s1.getShapeProperties()
+print(s1.getShapeProperties())
 ```
 
 <b> Output:</b>
