@@ -39,7 +39,7 @@ Jared Flores
 
 Gautam Mundewadi
 
-* Tuesday 11am - 1pm
+* Tuesday 11am - 1pm, Friday 12pm - 1pm
 * https://ucsb.zoom.us/j/89358685000
 
 Ari Polakof
