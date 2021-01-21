@@ -26,7 +26,7 @@ Recorded Lecture: [1_12_21](https://drive.google.com/file/d/1tD1bh6l8Ie94frfgVEx
 0
 >>> x.append(0)
 >>> x
-[3, 2, 1, 0]
+[1, 2, 3, 0]
 ```
 
 * `count`, `append`, etc are all examples of **methods** that can be called on an object.
