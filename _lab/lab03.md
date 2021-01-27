@@ -57,7 +57,7 @@ assert integerDivision(27,4) == 6
 assert reverseString("CMPSC9") == "9CSPMC"
 ```
 
-* `removeSubString(s, sub)` - The parameters `s` and `sub` are strings that contain at least one character. This function will return a string where all occurrences of `sub` are removed in the order it appears in the string `s` (see example test below for an interesting case).
+* `removeSubString(s, sub)` - The parameters `s` and `sub` are strings that contain at least one character. This function will return a string where all occurrences of `sub` are removed in the order it appears in the string `s` (see example test below for an interesting case). Your solution should not use the string's `replace` method.
 
 ```
 Example test
