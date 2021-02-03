@@ -134,7 +134,7 @@ This file will simply contain a Stack class implementation **exactly** as the on
 
 ## `testFile.py` pytest
 
-This file will contain unit tests using pytest to test if your `solveMaze` functionality is correct. Think of various mazes (with or without solutions and different sizes) and check to see if the traversal is correct according to these instructions. Write your tests first in order to check the correctness of your recursive function. Again, Gradescope requires `testfile.py` to be submitted before running any autograded tests. You should write at least one test where a solution exists (different than the one provided in these instructions), and another test where a solution does not exist. Remember that testing can help you debug your algorithm and ensure your functionality works as expected.
+This file will contain unit tests using pytest to test if your `solveMaze` functionality is correct. Think of various mazes (with or without solutions and different sizes) and check to see if the traversal is correct according to these instructions. Write your tests first in order to check the correctness of your function. Again, Gradescope requires `testfile.py` to be submitted before running any autograded tests. You should write at least one test where a solution exists (different than the one provided in these instructions), and another test where a solution does not exist. Remember that testing can help you debug your algorithm and ensure your functionality works as expected.
 
 An example of how we could write a pytest using the maze above using pytest:
 
