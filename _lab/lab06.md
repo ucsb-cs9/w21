@@ -77,7 +77,7 @@ This file will contain functions that sort a list of Apartment objects, ensures 
 * `mergesort(apartmentList)` - Performs a mergesort on the apartmentList passed as input. Sorts the Apartment objects based on the specifications in the **Introduction** section of this lab. **Gradescope will test to ensure that your mergesort implementation's Big-O is O(n log n)**
 * `ensureSortedAscending(apartmentList)` - method that returns a boolean value. Returns `True` if the apartmentList is sorted correctly in asending order. Returns `False` otherwise
 * `getNthApartment(apartmentList, n)` - method that returns a string detailing the Apartment's rent, meters from UCSB, and condition at index n. **Note that there is no newline (`"\n"`) at the end of the string returned by this method**. Make use of the `getApartmentDetails(self)` method you defined in `Apartment.py`. If the nth apartment does not exist, output `"(Apartment) DNE"` (see **Sample Output 3** below)
-* `getTopThreeApartments(apartmentList)` - method that returns a labeled, newline separated string detailing the rent, meters from UCSB, and condition of the **top three apartments** from the `apartmentList`. Note that there can be fewer that three apartments in your list and there is no newline at the end of the string returned by this method. You may assume that `apartmentList` is non-empty. **HINT: Make use of the getApartmentDetails(self) and mergesort(apartmentList) you defined in `Apartment.py`.** 
+* `getTopThreeApartments(apartmentList)` - method that returns a labeled, newline separated string detailing the rent, meters from UCSB, and condition of the **top three best apartments** from the `apartmentList`. Note that there can be fewer that three apartments in your list and there is no newline at the end of the string returned by this method. You may assume that `apartmentList` is non-empty. **HINT: Make use of the getApartmentDetails(self) and mergesort(apartmentList) you defined in `Apartment.py`.** 
 
 # Sample Output 1
 
@@ -139,9 +139,9 @@ print(getTopThreeApartments(apartmentList))
 
 <b> Output: </b>
 ```
-(Apartment) Rent: $700, Distance From UCSB: 315m, Condition: bad
-(Apartment) Rent: $800, Distance From UCSB: 250m, Condition: excellent
-(Apartment) Rent: $1000, Distance From UCSB: 100m, Condition: average
+1st: (Apartment) Rent: $700, Distance From UCSB: 315m, Condition: bad
+2nd: (Apartment) Rent: $800, Distance From UCSB: 250m, Condition: excellent
+3rd: (Apartment) Rent: $1000, Distance From UCSB: 100m, Condition: average
 ```
 
 # Sample Output 3
