@@ -15,7 +15,7 @@ Recorded Lecture: [2-25-21](https://drive.google.com/file/d/1c_kjlMvqukZj9Mm4PRz
 	* And there are many ways to implement trees
 
 ## List of Lists Representation
-* We can a list represent a binary tree 
+* We can use a list to represent a binary tree 
 * The outer-most list is the root node of the tree where the first element [0] is the value of the tree node. 
 * The left child can be represented with another list (representing the left node)
 * And the right child can be represented with another list
