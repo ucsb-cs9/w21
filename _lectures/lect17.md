@@ -160,4 +160,28 @@ def test_insertRoot():
 	BST.root.replaceNodeData(20, "twenty", None, None)
 	assert BST.root.key == 20
 	assert BST.root.payload == "twenty"
+
+
+def test_insertNodes():
+	BST = BinarySearchTree()
+	BST.put(10, "ten")
+	BST.put(20, "twenty")
+	BST.put(15, "fifteen")
+	BST.put(5, "five")
+	assert BST.root.key == 10
+	assert BST.root.leftChild.key == 5
+	assert BST.root.rightChild.key == 20
+	assert BST.root.rightChild.leftChild.key == 15
+
+def test_get():
+	BST = BinarySearchTree()
+	BST.put(10, "ten")
+	BST.put(20, "twenty")
+	BST.put(15, "fifteen")
+	BST.put(5, "five")
+	assert BST.get(10) == "ten"
+	assert BST.get(20) == "twenty"
+	assert BST.get(15) == "fifteen"
+	assert BST.get(5) == "five"
+	assert BST.get(30) == None
 ```
