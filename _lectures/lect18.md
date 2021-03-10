@@ -143,7 +143,7 @@ def remove(self,currentNode):
 
 	# Case 3: Node to remove has both children
 	elif currentNode.hasBothChildren():
-		# TBD on 3/9...
+		# TBD
 
 	# Case 2: Node to remove has one child
 	else:
