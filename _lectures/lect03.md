@@ -130,7 +130,7 @@ assert s1.perm == 7654321
 
 # Container Classes
 
-* Let's continue to expand on our `Student` class from last lecture.
+* Let's continue to expand on our `Student` class
 * Classes are also useful to organize / maintain state of a program
 * Student objects are useful to organize the attributes of a single student
 * But let’s imagine we are trying to write a database of various students
