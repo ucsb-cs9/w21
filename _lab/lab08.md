@@ -79,7 +79,7 @@ In addition to the construction of the BST in this class, the following methods 
 
 * `getTotalCards(self)` - returns the total number of cards in hand
 * `getMin(self)` - returns the card with the lowest value from the player's hand.  Returns `None` if there is no card in the hand
-* `getSuccessor(self, suit, rank)` - attempts to finds the Card with the `suit` and `rank`, and returns the card with the next greatest value Returns `None` if there is no card with the specified `suit` and `rank`, or if the Card is the maximum and has no successor
+* `getSuccessor(self, suit, rank)` - attempts to finds the Card with the `suit` and `rank`, and returns the card with the next greatest value. Returns `None` if there is no card with the specified `suit` and `rank`, or if the Card is the maximum and has no successor. Note, this includes any successor of the Card if it exists, not just the successor used for BST maintenance.
 * `put(self, suit, rank)` - this adds a card with the specified `suit` and `rank` to the BST. If that Card already exists in the BST, increment the `count` for that Card
 * `delete(self, suit, rank)` - attempts to find the Card with the specified `suit` and `rank`, and decrements the Card `count`. If the count is `0` after decrementing the `count`, remove the node from the BST entirely. Returns `True` if the Card was successfully removed or decremented, and `False` if the card is not present in the BST
 * `isEmpty(self)` - returns `True` if there are no cards in the BST and returns `False` otherwise
